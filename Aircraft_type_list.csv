@@ -1,0 +1,29 @@
+Model,Manufacturer,Type,Country,First_Flight,Entry_into_Service,Seats,Range_Km,Number_Built
+Boeing 787-8 Dreamliner,Boeing,Wide-body jet,USA,15-12-2009,26-10-2011,242,"13,530 km","1,072"
+Ilyushin Il-76,Ilyushin,Cargo,Russia,25-03-1971,1974,N/A,"4,200–5,000 km",960+
+Airbus A321-231,Airbus,Narrow-body jet,Multinational,11-03-1993,1994,185,"5,950 km","2,500+"
+Boeing 777-200ER,Boeing,Wide-body jet,USA,07-10-1996,1997,314,"14,305 km",422
+Airbus A330-203,Airbus,Wide-body jet,Multinational,1997,1998,293,"13,430 km","1,800+"
+Boeing 747-209B,Boeing,Wide-body jet,USA,1978,1979,366,"13,450 km","1,500+"
+Airbus A300,Airbus,Wide-body jet,France/Germany,28-10-1972,23-05-1974,247,"7,500 km",561
+Boeing 767-366ER,Boeing,Wide-body jet,USA,1981,1982,261,"11,070 km",583
+McDonnell Douglas MD-11,McDonnell Douglas,Wide-body trijet,USA,1990,1990,293,"12,455 km",200
+Airbus A300B4-622R,Airbus,Wide-body jet,France/Germany,1984,1985,266,"7,540 km",249
+Airbus A300B4-220,Airbus,Wide-body jet,France/Germany,1978,1979,266,"6,850 km",248
+Boeing 747-3B5,Boeing,Wide-body jet,USA,1980,1983,366,"12,400 km",81
+Boeing 747 / Russian Ilyushin Il-76,Boeing/Ilyushin,Mixed Use,USA/Russia,N/A,N/A,Mixed,Varies,Mixed
+Boeing 747-131,Boeing,Wide-body jet,USA,1969,1970,366,"9,800 km",31
+Antonov An-32B,Antonov,Turboprop transport,Ukraine,1976,1984,42,"2,500 km",360+
+Douglas DC-8-61,Douglas,Narrow-body jet,USA,1966,1967,259,"7,300 km",88
+Boeing 767-3Z9ER,Boeing,Wide-body jet,USA,1988,1989,261,"11,070 km",Unknown
+Boeing 747-121,Boeing,Wide-body jet,USA,1969,1970,366,"9,800 km",30+
+Airbus A300-200,Airbus,Wide-body jet,France/Germany,1972,1974,280,"5,375–7,500 km",250+
+Douglas DC-8-63CF,Douglas,Narrow-body jet,USA,1967,1968,259,"7,300 km",107
+Tupolev Tu-154B-2,Tupolev,Narrow-body jet,USSR,1971,1972,180,"5,280 km",450+
+Boeing 747-237,Boeing,Wide-body jet,USA,1970,1971,366,"10,800 km",12
+Boeing 747-230,Boeing,Wide-body jet,USA,1971,1972,366,"10,800 km",30+
+Lockheed L-1011,Lockheed,Wide-body trijet,USA,1970,1972,250,"7,410–10,410 km",250
+McDonnell Douglas DC-10-30,McDonnell Douglas,Wide-body trijet,USA,1972,1972,270,"10,600 km",163
+McDonnell Douglas DC-10-10,McDonnell Douglas,Wide-body trijet,USA,1970,1971,270,"6,200 km",122
+Boeing 747-237B,Boeing,Wide-body jet,USA,1971,1972,366,"12,000 km",4
+McDonnell Douglas DC-10,McDonnell Douglas,Wide-body trijet,USA,1970,1971,270,Varies,386
